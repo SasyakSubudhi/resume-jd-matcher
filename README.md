@@ -57,10 +57,21 @@ cd resume-jd-matcher
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-copy .env.example .env
+copy .streamlit\secrets.toml.example .streamlit\secrets.toml
+notepad .streamlit\secrets.toml
 ```
-Open `.env` and paste a free Groq API key from https://console.groq.com/keys (optional:
-without a key the app runs fully offline in rule-based mode).
+Paste your free Groq API key from https://console.groq.com/keys between the quotes and save.
+The key is optional: without one, the app runs fully offline in rule-based mode.
+
+### 🔒 How the API key is kept secret
+* The key is **never written in the source code**. `src/llm.py` reads it at runtime from
+  **Streamlit secrets** (`.streamlit/secrets.toml`), falling back to an environment variable / `.env`.
+* `secrets.toml` and `.env` are in **`.gitignore`**, so the key can't be committed to GitHub.
+  Only the empty templates (`secrets.toml.example`, `.env.example`) are in the repo.
+* Inside the program the key is wrapped in **`pydantic.SecretStr`**, so it prints as
+  `**********` if it ever ends up in a log or error message.
+* Error messages print only the exception type, never request details that could contain the key.
+* If a key is ever leaked, revoke it at console.groq.com/keys and create a new one.
 
 ```bat
 streamlit run app.py
