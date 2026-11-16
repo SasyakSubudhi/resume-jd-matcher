@@ -96,4 +96,4 @@ data/human_rankings.json    Human relevance grades (ground truth)
 
 ## Tech stack
 Python · LangChain · Groq (`openai/gpt-oss-20b`) · Pydantic · Sentence-Transformers ·
-Gensim (GloVe) · ChromaDB · Streamlit · pandas · matplotlib
+GloVe · ChromaDB · Streamlit · pandas · matplotlib
