@@ -1,0 +1,13 @@
+method,job,NDCG@5,P@5,top5
+glove,jd1_data_scientist,0.8101,0.4,"r01_ananya_rao, r19_tanvi_desai, r10_aditya_kumar, r06_arjun_reddy, r03_priya_nair"
+glove,jd2_backend_python,0.6974,0.2,"r04_karthik_iyer, r17_pooja_srinivasan, r06_arjun_reddy, r09_meera_joshi, r05_sneha_kulkarni"
+glove,jd3_frontend_react,0.7933,0.4,"r06_arjun_reddy, r05_sneha_kulkarni, r10_aditya_kumar, r17_pooja_srinivasan, r11_kavya_menon"
+glove,jd4_devops,0.9271,0.6,"r07_divya_shah, r17_pooja_srinivasan, r08_vikram_singh, r06_arjun_reddy, r05_sneha_kulkarni"
+sbert,jd1_data_scientist,0.9099,0.6,"r01_ananya_rao, r19_tanvi_desai, r03_priya_nair, r10_aditya_kumar, r02_rohan_mehta"
+sbert,jd2_backend_python,0.9271,0.6,"r04_karthik_iyer, r13_neha_gupta, r18_aman_choudhary, r07_divya_shah, r08_vikram_singh"
+sbert,jd3_frontend_react,1.0,0.6,"r06_arjun_reddy, r05_sneha_kulkarni, r18_aman_choudhary, r12_siddhant_patil, r15_ishita_bose"
+sbert,jd4_devops,1.0,0.6,"r07_divya_shah, r08_vikram_singh, r17_pooja_srinivasan, r14_rahul_verma, r20_harsh_malhotra"
+hybrid,jd1_data_scientist,0.9172,0.6,"r01_ananya_rao, r19_tanvi_desai, r03_priya_nair, r02_rohan_mehta, r10_aditya_kumar"
+hybrid,jd2_backend_python,0.9271,0.6,"r04_karthik_iyer, r18_aman_choudhary, r13_neha_gupta, r07_divya_shah, r08_vikram_singh"
+hybrid,jd3_frontend_react,1.0,0.6,"r06_arjun_reddy, r05_sneha_kulkarni, r18_aman_choudhary, r12_siddhant_patil, r15_ishita_bose"
+hybrid,jd4_devops,1.0,0.6,"r07_divya_shah, r17_pooja_srinivasan, r08_vikram_singh, r14_rahul_verma, r04_karthik_iyer"

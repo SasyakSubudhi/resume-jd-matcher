@@ -1,0 +1,4 @@
+method,mean NDCG@5,mean P@5
+glove,0.9035,0.55
+sbert,0.9592,0.6
+hybrid,0.9771,0.65
