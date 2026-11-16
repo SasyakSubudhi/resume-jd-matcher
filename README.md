@@ -35,20 +35,28 @@ a **skill-gap report** for every shortlisted candidate using an LLM prompt chain
       Streamlit app (app.py)
 ```
 
-## Results (NDCG@5, 4 jobs × 20 candidates)
+## Results (NDCG@5, 4 jobs × 20 candidates, LLM extraction)
 
 | Method | Mean NDCG@5 | Mean P@5 |
 |--------|------------:|---------:|
-| Static: GloVe (glove-wiki-gigaword-50) | 0.807 | 0.40 |
+| Static: GloVe (glove-wiki-gigaword-50) | 0.904 | 0.55 |
 | Contextual: SBERT + ChromaDB | 0.959 | 0.60 |
-| **Hybrid: SBERT + skill match** | **0.961** | **0.60** |
+| **Hybrid: SBERT + skill match** | **0.977** | **0.65** |
 
-Contextual embeddings beat static ones because GloVe gives each word one fixed vector,
-averages away word order and has no vectors for many tech terms (for example "fastapi",
-"pytorch" or "nextjs"). SBERT encodes the whole sentence in context. P@5 counts grade ≥ 2
-candidates in the top 5. Each job has only 3–4 such candidates, so the maximum possible
-P@5 is 0.6–0.8.
-Regenerate with `python scripts/run_evaluation.py` → `results/`.
+Per job (NDCG@5): Data Scientist 0.81 / 0.91 / **0.98**, Backend 0.94 / 0.93 / 0.93,
+Frontend 0.93 / **1.00 / 1.00**, DevOps 0.94 / **1.00 / 1.00** (GloVe / SBERT / Hybrid).
+
+**Why contextual wins:** GloVe gives each word one fixed vector, averages away word order and has
+no vectors for many tech terms (for example "fastapi", "pytorch" or "nextjs"). Its document
+similarities are squeezed into a narrow band (about 0.94–0.98), so it discriminates poorly. For the
+Data Scientist job it even put a frontend developer (human grade 0) in its top 5. SBERT encodes
+the whole sentence in context and separates candidates clearly. The hybrid adds an explicit skill
+match on top, which fixes the cases where pure similarity misplaces a candidate.
+P@5 counts grade ≥ 2 candidates in the top 5. Each job has only 3–4 such candidates, so the
+maximum possible P@5 is 0.6–0.8.
+
+With the offline rule-based extractor instead of the LLM the numbers are 0.807 / 0.959 / 0.961
+(see `results/offline_extraction/`). Regenerate with `python scripts/run_evaluation.py` → `results/`.
 
 ## Setup (Windows – Command Prompt)
 
