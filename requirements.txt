@@ -1,0 +1,14 @@
+# Python 3.10 - 3.13 (3.12 recommended)
+streamlit>=1.50
+pydantic>=2.7
+langchain-core>=1.0
+langchain-groq>=1.0
+python-dotenv>=1.0
+sentence-transformers>=3.0
+gensim>=4.3.3
+chromadb>=1.0
+numpy
+pandas
+matplotlib
+pypdf
+python-docx
