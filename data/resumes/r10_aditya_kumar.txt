@@ -1,0 +1,18 @@
+Aditya Kumar
+Email: aditya.kumar@mail.com | Bengaluru, India
+
+SUMMARY
+Final-year CS student looking for an entry-level software role.
+
+SKILLS
+Python, C++, Data Structures, Algorithms, Git, SQL, HTML
+
+EXPERIENCE
+- Software Intern | Local startup | 6 months | Wrote Python scripts for data cleaning
+
+EDUCATION
+- B.Tech Computer Science, Dayananda Sagar College (2026)
+
+PROJECTS
+- Movie recommender using collaborative filtering (machine learning coursework)
+- Library management system in C++

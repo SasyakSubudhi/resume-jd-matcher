@@ -1,0 +1,17 @@
+Neha Gupta
+Email: neha.gupta@mail.com | Bengaluru, India
+
+SUMMARY
+Junior backend developer who loves Python.
+
+SKILLS
+Python, Flask, REST APIs, MySQL, Git, Docker
+
+EXPERIENCE
+- Associate Software Engineer | Accenture | 1 year | Built Flask REST APIs over MySQL and containerised them with Docker
+
+EDUCATION
+- B.Tech Information Technology, Manipal Institute of Technology
+
+PROJECTS
+- Blog API with Flask and JWT auth

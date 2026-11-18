@@ -1,0 +1,16 @@
+Job Title: Data Scientist
+Company: Acme Retail Analytics
+Experience: 2+ years
+
+About the role: We are looking for a data scientist to build predictive models that drive pricing and inventory decisions.
+
+Required Skills: Python, SQL, Machine Learning, Pandas, Scikit-learn, Statistics
+
+Preferred Skills: Deep Learning, TensorFlow or PyTorch, Tableau, NLP
+
+Education: B.Tech / M.Sc in Computer Science, Statistics or related field
+
+Responsibilities:
+- Build and validate machine learning models for demand forecasting
+- Analyse large datasets with SQL and Python
+- Communicate insights to business stakeholders with dashboards

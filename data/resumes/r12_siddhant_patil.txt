@@ -1,0 +1,17 @@
+Siddhant Patil
+Email: siddhant.patil@mail.com | Bengaluru, India
+
+SUMMARY
+Frontend developer experienced with Angular enterprise apps.
+
+SKILLS
+JavaScript, TypeScript, Angular, HTML, CSS, REST APIs, Git
+
+EXPERIENCE
+- Frontend Developer | TCS | 2 years | Built Angular dashboards for a banking client
+
+EDUCATION
+- B.E. Computer Science, PESIT
+
+PROJECTS
+- Expense tracker in Angular

@@ -1,0 +1,16 @@
+Job Title: DevOps Engineer
+Company: CloudScale Systems
+Experience: 3+ years
+
+About the role: Own our cloud infrastructure, CI/CD pipelines and observability stack.
+
+Required Skills: Linux, Docker, Kubernetes, AWS, Terraform, CI/CD
+
+Preferred Skills: Ansible, Prometheus, Grafana, Python, Jenkins
+
+Education: B.E./B.Tech in any engineering discipline
+
+Responsibilities:
+- Provision AWS infrastructure with Terraform
+- Run and scale Kubernetes clusters
+- Build CI/CD pipelines and monitoring dashboards

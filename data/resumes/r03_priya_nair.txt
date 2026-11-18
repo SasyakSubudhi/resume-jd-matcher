@@ -1,0 +1,21 @@
+Priya Nair
+Email: priya.nair@mail.com | Bengaluru, India
+
+SUMMARY
+Data analyst who turns business questions into SQL queries and dashboards.
+
+SKILLS
+SQL, Excel, Power BI, Tableau, Python, Pandas, Statistics
+
+EXPERIENCE
+- Data Analyst | Deloitte | 2 years | Built Power BI dashboards and ad-hoc SQL reports for finance teams
+
+EDUCATION
+- B.Com, St. Joseph's College
+
+PROJECTS
+- Sales performance dashboard in Power BI
+- A/B test analysis using hypothesis testing in Python
+
+CERTIFICATIONS
+- Microsoft Power BI Data Analyst Associate

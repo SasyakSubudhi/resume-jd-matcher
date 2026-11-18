@@ -1,0 +1,18 @@
+Sneha Kulkarni
+Email: sneha.k@mail.com | Bengaluru, India
+
+SUMMARY
+Full-stack MERN developer who enjoys building clean user interfaces.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, Express, MongoDB, HTML, CSS, REST APIs, Git
+
+EXPERIENCE
+- Full Stack Developer | Swiggy | 2 years | Built React dashboards and Node/Express APIs with MongoDB
+
+EDUCATION
+- B.Tech Computer Science, PES University
+
+PROJECTS
+- E-commerce store with MERN stack
+- Real-time chat app using Socket.io

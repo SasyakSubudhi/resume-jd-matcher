@@ -1,0 +1,21 @@
+Tanvi Desai
+Email: tanvi.desai@mail.com | Bengaluru, India
+
+SUMMARY
+Junior data scientist with strong statistics fundamentals.
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, Machine Learning, Statistics, SQL, Matplotlib
+
+EXPERIENCE
+- Junior Data Scientist | Fractal Analytics | 1 year | Built classification models and EDA reports with scikit-learn
+
+EDUCATION
+- B.Sc Statistics, Fergusson College
+
+PROJECTS
+- House price prediction with regression models
+- Credit-risk scoring using logistic regression
+
+CERTIFICATIONS
+- IBM Data Science Professional Certificate

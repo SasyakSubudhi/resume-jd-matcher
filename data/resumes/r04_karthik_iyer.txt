@@ -1,0 +1,19 @@
+Karthik Iyer
+Email: karthik.iyer@mail.com | Bengaluru, India
+
+SUMMARY
+Backend engineer building scalable Python APIs.
+
+SKILLS
+Python, Django, FastAPI, REST APIs, PostgreSQL, Redis, Docker, AWS, Git, pytest, Microservices
+
+EXPERIENCE
+- Backend Engineer | Razorpay | 2 years | Designed REST APIs in Django and FastAPI backed by PostgreSQL and Redis
+- Software Engineer Intern | Zoho | 1 year | Wrote unit tests with pytest and containerised services with Docker
+
+EDUCATION
+- B.E. Information Science, BMS College of Engineering
+
+PROJECTS
+- Payment reconciliation microservice in FastAPI
+- URL shortener with Redis caching

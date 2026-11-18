@@ -1,0 +1,22 @@
+Arjun Reddy
+Email: arjun.reddy@mail.com | Bengaluru, India
+
+SUMMARY
+Frontend engineer specialising in React and design systems.
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS, Jest, Figma, REST APIs, Git
+
+EXPERIENCE
+- Frontend Engineer | Meesho | 2 years | Built Next.js storefront pages and a Tailwind component library
+- UI Developer | Mindtree | 1 year | Converted Figma designs into responsive React components with Jest tests
+
+EDUCATION
+- B.Tech Computer Science, VIT Vellore
+
+PROJECTS
+- Open-source React date-picker (1.2k GitHub stars)
+- Portfolio site with Next.js and Tailwind
+
+CERTIFICATIONS
+- Meta Front-End Developer Certificate

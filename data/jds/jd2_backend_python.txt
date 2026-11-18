@@ -1,0 +1,16 @@
+Job Title: Backend Developer (Python)
+Company: FinNova Payments
+Experience: 2+ years
+
+About the role: Join our platform team to build secure, high-throughput payment APIs.
+
+Required Skills: Python, Django, REST APIs, PostgreSQL, Docker, Git
+
+Preferred Skills: FastAPI, Redis, AWS, Kubernetes, Microservices, Unit Testing (pytest)
+
+Education: B.E./B.Tech in Computer Science or related field
+
+Responsibilities:
+- Design and build REST APIs in Python
+- Model data in PostgreSQL and optimise queries
+- Write tests and ship services in Docker containers

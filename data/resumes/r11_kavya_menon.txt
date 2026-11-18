@@ -1,0 +1,18 @@
+Kavya Menon
+Email: kavya.menon@mail.com | Bengaluru, India
+
+SUMMARY
+NLP engineer working on LLM applications and fine-tuning.
+
+SKILLS
+Python, PyTorch, NLP, Hugging Face, LangChain, LLMs, Deep Learning, Pandas, Git
+
+EXPERIENCE
+- NLP Engineer | Observe.AI | 1.5 years | Fine-tuned transformer models and built LangChain RAG pipelines
+
+EDUCATION
+- M.Tech Artificial Intelligence, IIIT Bangalore
+
+PROJECTS
+- Legal document question-answering with RAG
+- Named-entity recognition for Kannada text

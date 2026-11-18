@@ -1,0 +1,23 @@
+Divya Shah
+Email: divya.shah@mail.com | Bengaluru, India
+
+SUMMARY
+DevOps engineer automating cloud infrastructure and release pipelines.
+
+SKILLS
+Linux, Docker, Kubernetes, AWS, Terraform, Jenkins, CI/CD, Ansible, Prometheus, Grafana, Python, Git
+
+EXPERIENCE
+- DevOps Engineer | Freshworks | 3 years | Managed EKS Kubernetes clusters and Terraform-provisioned AWS infrastructure
+- System Administrator | Wipro | 1 year | Linux server administration and Ansible automation
+
+EDUCATION
+- B.E. Electronics and Communication, MSRIT
+
+PROJECTS
+- Zero-downtime blue/green deployments with Jenkins and Kubernetes
+- Monitoring stack with Prometheus and Grafana
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- AWS Solutions Architect Associate

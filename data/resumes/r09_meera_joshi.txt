@@ -1,0 +1,20 @@
+Meera Joshi
+Email: meera.joshi@mail.com | Bengaluru, India
+
+SUMMARY
+Java backend developer building event-driven microservices.
+
+SKILLS
+Java, Spring Boot, MySQL, REST APIs, Microservices, Kafka, Docker, Git, JUnit
+
+EXPERIENCE
+- Senior Software Engineer | Infosys | 4 years | Built Spring Boot microservices with Kafka and MySQL
+
+EDUCATION
+- B.E. Computer Science, SIT Tumkur
+
+PROJECTS
+- Order management system with Kafka event sourcing
+
+CERTIFICATIONS
+- Oracle Certified Java Programmer

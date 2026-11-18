@@ -1,0 +1,16 @@
+Job Title: Frontend Developer (React)
+Company: PixelCart
+Experience: 1+ years
+
+About the role: Build fast, accessible shopping experiences used by millions of customers.
+
+Required Skills: JavaScript, TypeScript, React, HTML, CSS, REST APIs
+
+Preferred Skills: Next.js, Redux, Tailwind CSS, Jest, Figma
+
+Education: Any bachelor's degree
+
+Responsibilities:
+- Build reusable React components
+- Integrate REST APIs and manage state
+- Work with designers to turn Figma mockups into UI

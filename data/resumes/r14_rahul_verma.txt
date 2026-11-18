@@ -1,0 +1,20 @@
+Rahul Verma
+Email: rahul.verma@mail.com | Bengaluru, India
+
+SUMMARY
+Data engineer building batch and streaming pipelines.
+
+SKILLS
+Python, SQL, Spark, Airflow, Hadoop, AWS, Kafka, PostgreSQL, Docker
+
+EXPERIENCE
+- Data Engineer | Walmart Global Tech | 3 years | Built Spark and Airflow ETL pipelines on AWS
+
+EDUCATION
+- B.Tech Computer Science, JNTU Hyderabad
+
+PROJECTS
+- Streaming clickstream pipeline with Kafka and Spark
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate

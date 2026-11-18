@@ -1,0 +1,20 @@
+Vikram Singh
+Email: vikram.singh@mail.com | Bengaluru, India
+
+SUMMARY
+Site reliability engineer with hands-on AWS and automation experience.
+
+SKILLS
+Linux, AWS, Docker, Bash, CI/CD, Python, Prometheus, Git
+
+EXPERIENCE
+- SRE | PhonePe | 2 years | Automated deployments with GitHub Actions and monitored services using Prometheus
+
+EDUCATION
+- B.Tech Computer Science, NIT Surathkal
+
+PROJECTS
+- Auto-scaling EC2 fleet with Lambda alerts
+
+CERTIFICATIONS
+- AWS Cloud Practitioner

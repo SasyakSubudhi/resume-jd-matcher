@@ -1,0 +1,20 @@
+Harsh Malhotra
+Email: harsh.m@mail.com | Bengaluru, India
+
+SUMMARY
+QA automation engineer writing test frameworks.
+
+SKILLS
+Python, Selenium, pytest, Jenkins, Git, SQL, Linux
+
+EXPERIENCE
+- QA Automation Engineer | Capgemini | 2 years | Built Selenium + pytest suites run nightly in Jenkins
+
+EDUCATION
+- B.E. Computer Science, RNSIT
+
+PROJECTS
+- Automated regression suite for an e-commerce site
+
+CERTIFICATIONS
+- ISTQB Foundation Level

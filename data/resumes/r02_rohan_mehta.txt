@@ -1,0 +1,21 @@
+Rohan Mehta
+Email: rohan.mehta@mail.com | Bengaluru, India
+
+SUMMARY
+ML engineer focused on deploying deep learning models to production.
+
+SKILLS
+Python, PyTorch, Deep Learning, NLP, Hugging Face, Scikit-learn, Docker, MLOps, AWS, FastAPI, Git
+
+EXPERIENCE
+- ML Engineer | Sigmoid | 2.5 years | Trained and served transformer models with PyTorch, FastAPI and Docker on AWS
+
+EDUCATION
+- B.Tech Computer Science, RV College of Engineering
+
+PROJECTS
+- Resume parser using Hugging Face transformers
+- Real-time model monitoring with MLflow
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty

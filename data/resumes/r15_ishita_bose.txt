@@ -1,0 +1,17 @@
+Ishita Bose
+Email: ishita.bose@mail.com | Bengaluru, India
+
+SUMMARY
+UI/UX designer who prototypes in code.
+
+SKILLS
+Figma, HTML, CSS, JavaScript
+
+EXPERIENCE
+- UI/UX Designer | Ola | 2 years | Designed mobile app flows in Figma and built HTML/CSS prototypes
+
+EDUCATION
+- B.Des Interaction Design, NID Bengaluru
+
+PROJECTS
+- Redesign of a food-delivery checkout flow

@@ -1,0 +1,17 @@
+Aman Choudhary
+Email: aman.c@mail.com | Bengaluru, India
+
+SUMMARY
+Full-stack developer working across Django and React.
+
+SKILLS
+Python, Django, React, JavaScript, HTML, CSS, PostgreSQL, REST APIs, Docker, Git
+
+EXPERIENCE
+- Full Stack Developer | Groww | 2 years | Built Django REST backends and React frontends on PostgreSQL
+
+EDUCATION
+- B.Tech Computer Science, PES University
+
+PROJECTS
+- Stock watchlist app with Django and React

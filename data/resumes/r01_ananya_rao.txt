@@ -1,0 +1,23 @@
+Ananya Rao
+Email: ananya.rao@mail.com | Bengaluru, India
+
+SUMMARY
+Data scientist with 3 years of experience building predictive models and dashboards for retail clients.
+
+SKILLS
+Python, SQL, Machine Learning, Pandas, NumPy, Scikit-learn, Statistics, TensorFlow, Tableau, NLP, Git
+
+EXPERIENCE
+- Data Scientist | Tredence Analytics | 2 years | Built demand-forecasting and churn models with scikit-learn and TensorFlow
+- Data Analyst Intern | Flipkart | 1 year | Wrote SQL pipelines and Tableau dashboards for category managers
+
+EDUCATION
+- M.Sc Statistics, Christ University
+- B.Sc Mathematics, Mount Carmel College
+
+PROJECTS
+- Customer churn prediction using gradient boosting (AUC 0.89)
+- Review sentiment classifier using NLP and TF-IDF
+
+CERTIFICATIONS
+- Google Data Analytics Certificate

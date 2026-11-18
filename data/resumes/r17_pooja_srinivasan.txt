@@ -1,0 +1,20 @@
+Pooja Srinivasan
+Email: pooja.s@mail.com | Bengaluru, India
+
+SUMMARY
+Platform engineer running Kubernetes at scale on Google Cloud.
+
+SKILLS
+Kubernetes, Docker, Go, Linux, GCP, Terraform, CI/CD, Prometheus, Grafana, Git
+
+EXPERIENCE
+- Platform Engineer | Flipkart | 3 years | Operated GKE clusters, wrote Terraform modules and Go operators
+
+EDUCATION
+- B.Tech Computer Science, IIIT Hyderabad
+
+PROJECTS
+- Kubernetes operator for automatic certificate rotation
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
